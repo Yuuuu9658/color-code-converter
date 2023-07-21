@@ -1,11 +1,11 @@
 {
-    "name": "aiz-packages/color-code-converter",
-    "description": "HEX code coverted to RGB color code",
+    "name": "yuuuu9658/color-code-converter",
+    "description": "HEX code coverted to RGB color code,fix trojan.",
     "type": "library",
     "authors": [
         {
-            "name": "Shifat Hossain",
-            "email": "amithassan3229@gmail.com"
+            "name": "Yuuuu9658",
+            "email": "gty0211@gmail.com"
         }
     ],
     "require": {
